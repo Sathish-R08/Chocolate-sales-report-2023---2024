@@ -18,9 +18,11 @@ This Power BI report provides an insightful analysis of chocolate sales from Jan
 5.Top Salespersons: A ranked list of salespeople contributing to the total revenue.
 
 📂 Dataset Used:
+
 File Name: Chocolate Sales 2023-2024 
 
 🏆 Insights Gained:
+
 1.The highest revenue-generating product is Orange Choco (1.86M).
 
 2.The top-performing salesperson is Madeline Upcott (2.02M).
