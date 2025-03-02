@@ -6,6 +6,7 @@ Project: Chocolate Sales 2023-2024
 This Power BI report provides an insightful analysis of chocolate sales from January 2023 to September 2024. The dashboard includes various visualizations to help understand sales trends, product performance, and sales distribution by country and salesperson.
 
 🔍 Key Features:
+
 1.Total Sales Overview: Displays total revenue (27.99M) and total boxes sold (2M).
 
 2.Monthly Sales Trend: A line chart showcasing monthly revenue fluctuations.
