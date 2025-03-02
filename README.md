@@ -5,36 +5,23 @@ Project: Chocolate Sales 2023-2024
 
 This Power BI report provides an insightful analysis of chocolate sales from January 2023 to September 2024. The dashboard includes various visualizations to help understand sales trends, product performance, and sales distribution by country and salesperson.
 
-🔍 Key Features
+🔍 Key Features:
+1.Total Sales Overview: Displays total revenue (27.99M) and total boxes sold (2M).
 
-Total Sales Overview: Displays total revenue (27.99M) and total boxes sold (2M).
+2.Monthly Sales Trend: A line chart showcasing monthly revenue fluctuations.
 
-Monthly Sales Trend: A line chart showcasing monthly revenue fluctuations.
+3.Sales by Product: A bar chart highlighting the best-selling chocolate products.
 
-Sales by Product: A bar chart highlighting the best-selling chocolate products.
+4.Sales by Country: A donut chart representing the revenue share by different countries.
 
-Sales by Country: A donut chart representing the revenue share by different countries.
+5.Top Salespersons: A ranked list of salespeople contributing to the total revenue.
 
-Top Salespersons: A ranked list of salespeople contributing to the total revenue.
+📂 Dataset Used:
+File Name: Chocolate Sales 2023-2024 
 
-📂 Dataset Used
+🏆 Insights Gained:
+1.The highest revenue-generating product is Orange Choco (1.86M).
 
-File Name: Chocolate Sales 2023-2024
+2.The top-performing salesperson is Madeline Upcott (2.02M).
 
-Data Included:
-
-Sales transactions across various countries
-
-Product-wise sales performance
-
-Sales contributions by employees
-
-Monthly sales trends
-
-🏆 Insights Gained
-
-The highest revenue-generating product is Orange Choco (1.86M).
-
-The top-performing salesperson is Madeline Upcott (2.02M).
-
-Sales peaked in mid-2023 and had fluctuations throughout 2024.
+3.Sales peaked in mid-2023 and had fluctuations throughout 2024.
